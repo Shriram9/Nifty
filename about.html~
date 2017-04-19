@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nifty Trendz</title>
+    <!--Favicon-->
+    <link rel="shortcut icon" href="img/icons/favicon.png" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <!-- responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Font Awesome css -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- hover css -->
+    <link rel="stylesheet" href="css/hover.css">
+    <!-- fancybox css -->
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <!-- owl carousel css -->
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- animate css -->
+    <link rel="stylesheet" href="css/animate.min.css">
+    <!-- font flaticon -->
+    <link rel="stylesheet" href="fonts/flaticon/flaticon.css">
+    <!-- revolution css -->
+    <link rel="stylesheet" href="revolution/css/settings.css">
+    <link rel="stylesheet" href="js/jquery-ui-1.11.4/jquery-ui.css">    
+    <!-- master stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Google Fonts -->
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Raleway:400,100,100italic,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,900,800italic,900italic">    
+</head>
+<body>
+    <!-- Preloader -->
+    <div class="preloader">
+    </div>   
+    <!-- header -->
+    <header id="masthead" class="site-header header">
+     <!-- top bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="left-text pull-left">
+               <div class="single-header-info">
+                    <div class="icon-box">
+                        <div class="inner-box">
+                            <i class="flaticon-phone-call"></i>
+                        </div>
+                    </div>
+                    <div class="content">                        
+                        <p>(+91)9527048364</p>
+                    </div>
+                </div>
+                <div class="single-header-info">
+                    <div class="icon-box">
+                        <div class="inner-box">
+                            <i class="flaticon-interface"></i>
+                        </div>
+                    </div>
+                    <div class="content">                        
+                        <p>trendznifty@gmail.com</p>
+                    </div>
+                </div>
+            </div>
+            <!-- social icons -->
+            <div class="social-icons pull-right">
+                <ul>
+                    <li><a href="http://fb.me/educatingretail"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/Nifty_trendz"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCWH6nFJdb-ISePNyDUPFIdQ"><i class="fa fa-google-plus"></i></a></li>
+                </ul>
+            </div>
+            <!-- /.social-icons -->
+        </div>
+    </div>        
+        <div class="container">
+			<div class="row">
+            <div class="col-sm-12">
+                <!-- logo -->
+                <div class="logo pull-left">
+                    <a href="index.html">
+                        <img src="img/resources/logo.png" width="200" height="67" alt="nifty trendz" />
+                    </a>
+                </div>
+                <!-- menu -->
+            <div class="header-right-info pull-right clearfix">
+               <nav class="mainmenu-area stricky">        
+                 <div class="navigation pull-left">
+                <div class="nav-header">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="blog/viewpost.php">Blog</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="nav-footer">
+                    <button><i class="fa fa-bars"></i></button>
+                </div>
+            </div>                      
+            </nav>
+            <!-- /.mainmenu-area -->
+            </div>
+            <!-- End menu -->
+            </div>
+			</div>
+        </div>
+    </header>
+    <!-- /.header -->
+    <section class="inner-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title colored text-center">
+                    <h2>About Us</h2>
+                    <ul class="breadcumb">
+                        <li><a href="index.html">Home</a></li>
+                        <li><i class="fa fa-angle-right"></i></li>
+                        <li><span>About Us</span></li>
+                    </ul>                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="sec-padding about-content full-sec pb-80">
+        <div class="container">
+            <div class="row">               
+                <div class="col-md-6 hidden-md text-right">
+                    <img src="img/resources/aboutus.jpg" height="300px" alt="Awesome Image" />
+                </div>
+                 <div class="col-lg-6 col-md-12">
+                    <div class="full-sec-content mt-15">
+                        <div class="sec-title style-two">
+                            <h2>More about us</h2>                            
+                        </div>
+                        <p style="text-align:justify">Our Institute aims to provide world class training and consultancy to achieve the financial freedom, by our experienced Professors. We believe in to provide a in a very simple and clear manner, so that any newbie could easily grasp the jargons to the world of technical analysis. </p>
+                        <br>
+                        <p style="text-align:justify">Our main focuses is on the part of Risk management, A concept which is ignored by 90% of retail traders . During the course you would understand the importance of risk management and how critical it is and how traders burn their portfolio by not having the essence of risk management.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sec-padding about-content full-sec pb-80" style="margin-bottom:80px">
+        <div class="container">
+            <div class="row">               
+               
+                 <div class="col-lg-8 col-md-12">
+                    <div class="full-sec-content mt-15">
+                        <div class="sec-title style-two">
+                            <h2>About Trainer</h2>                            
+                        </div>
+                        <h3>Mr.Vaibhav Agarwal  </h3>
+                        <br>
+                        <p style="text-align:justify">He  is a Level 3 candidate of  Chartered Market technician [CMT ,MTA US] which is a global designation for practitioners of technical analysis.He is also affiliate member of CFA institute [US] and a CFA level 2 candidate. He  has also cleared NCFM modules held by National Stock exchange . </p>
+                        <br>
+                        <p style="text-align:justify">His passion regarding stock trading and fund management has made him stand pioneer in the field ,he has been outsourcing his knowledge and research to many of the renowned broking houses and he has been educating various independent traders globally .</p>
+			</br>
+			<p style="text-align:justify">He always believes in SIMPLICITY yet powerful trading tenchiques which gives Low risk  and High rewards trading setups which can be applied to all markets globally.</p>
+                    </div>
+                </div>
+		 <div class="col-md-4 hidden-md text-right" >
+                    <img src="img/author.jpg"  alt="vaibhav agarwal" />
+                </div>
+            </div>
+        </div>
+    </section>
+    
+   
+   
+    <footer class="footer bg-style sec-padding style2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="footer-widget about-widget">
+                      <h3 class="title">About Nifty trendz</h3>
+                        <p style="text-align:justify">Nifty trendz aims to provide comprehensive training and consultancy to the traders to deal with dynamic market conditions. </p>
+                        <ul class="contact">
+                            <li><i class="fa fa-map-marker"></i> <span>Kunal appartment flat no B-12,</br> beside blackberry showroom,</br>  DP road Aundh Pune 411007</span></li>
+                            <li><i class="fa fa-phone"></i> <span>(+91)9527048364</span></li>
+                            <li><i class="fa fa-envelope-o"></i> <span>trendznifty@gmail.com</span></li>
+                        </ul>
+                        <ul class="social">
+                            <li><a href="http://fb.me/educatingretail"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/Nifty_trendz"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCWH6nFJdb-ISePNyDUPFIdQ"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="footer-widget quick-links">
+                            <h3 class="title">Useful Links</h3>
+                            <ul>
+                                <li><a href="index.html">Home</a></li>
+                        	<li><a href="about.html">About</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="blog/viewpost.php">Blog</a></li>
+                        	<li><a href="contact.html">Contact Us</a></li>                               
+                            </ul>
+                        </div>
+                </div>
+              
+                <div class="col-md-4 col-sm-6">
+                    <div class="footer-widget contact-widget">
+                        <h3 class="title">Contact Form</h3>
+                        
+                        <form action="email.php" method="post" class="contact-form" id="footer-cf">
+                            <input type="text" name="name" placeholder="Full Name">
+                            <input type="text" name="email" placeholder="Email Address">
+                            <input type="text" name="phone" placeholder="Phone">
+                            <textarea name="message" placeholder="Your Message"></textarea>
+                            <button type="submit">Send</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>    
+    <div class="footer-bottom">
+        <div class="container text-center">
+            <p> Copyright &copy; 2017 <a href="#"> Nifty Trendz </a></p>
+        </div>
+    </div>
+    <!-- main jQuery -->
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <!-- bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- bx slider -->
+    <script src="js/jquery.bxslider.min.js"></script>
+    <!-- appear js -->
+    <script src="js/jquery.appear.js"></script>
+    <!-- count to -->
+    <script src="js/jquery.countTo.js"></script>
+    <!-- owl carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- validate -->
+    <script src="js/validate.js"></script>
+    <!-- mixit up -->
+    <script src="js/jquery.mixitup.min.js"></script>
+    <!-- fancybox -->
+    <script src="js/jquery.fancybox.pack.js"></script>
+    <!-- easing -->
+    <script src="js/jquery.easing.min.js"></script>
+    <!-- isotope script -->
+    <script src="js/isotope.pkgd.min.js"></script>
+    <!-- jQuery ui js -->
+    <script src="js/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <!-- thm custom script -->
+    <script src="js/custom.js"></script>
+</body>
+</html>
